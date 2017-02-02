@@ -1,8 +1,8 @@
 fi-FI:
   faker:
     address:
-      city_prefix: [Haap, He, Kau, Oul, Ra, Ni, 'No', Ke, La, Or]
-      city_suffix: [sjärvi, kano, ahe, inen, esi, uma, mi, inen, valta, mina]
+      city_prefix: [Haap, He, Kau, Oul, Ra, Ni, 'No', Ke, La, Or, Se]
+      city_suffix: [sjärvi, kano, ahe, inen, esi, uma, mi, inen, valta, mina, oul]
       building_number: ['###', '##', '#']
       street_suffix: [katu, gatan, ranta]
       postcode: ['#####']
